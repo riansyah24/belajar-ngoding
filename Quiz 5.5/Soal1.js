@@ -12,4 +12,4 @@ let fifth = "I"
 let sixth = "love"
 let seventh = "it"
 
-console.log(word1 + " " + second + " " + third + " " + fourth + " " + fifth + " " + sixth + " " + seventh)￼Enter
+console.log(word1 + " " + second + " " + third + " " + fourth + " " + fifth + " " + sixth + " " + seventh)
