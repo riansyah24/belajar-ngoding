@@ -19,4 +19,4 @@ console.log(`First word: ${firstWord} with length: ${firstWordLength}`)
 console.log(`Second word: ${secondWord} with length: ${secondWordLength}`)
 console.log(`Third word: ${thirdWord} with length: ${thirdWordLength}`)
 console.log(`Fourth word: ${fourthWord} with length: ${fourthWordLength}`)
-console.log(`Fifth word: ${fifthWord} with length: ${fifthWordLength}`)￼Enter
+console.log(`Fifth word: ${fifthWord} with length: ${fifthWordLength}`)
