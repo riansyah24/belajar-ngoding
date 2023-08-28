@@ -13,12 +13,12 @@ function dataHandling(input) {
     bulan += "Mei"
   }
   
-  for(let i = tglArray.length - 1;i>=0;i--) {
+  /*for(let i = tglArray.length - 1;i>=0;i--) {
     if(i === 0) {
       tglStringNew+=tglArray[i]
     }
     else {
-      tglStringNew+=tglArray[i] + "-"
+      tglStringNew.join("-")
     }
   }
   
@@ -29,7 +29,11 @@ function dataHandling(input) {
     else {
       namaNew+=nama[i]
     }
-  }
+  }*/
+
+  tglStringNew = tglArray.join("-")
+  
+  namaNew = nama.slice(0,15)
   
   console.log(input)
   console.log(bulan)
